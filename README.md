@@ -8,7 +8,7 @@
 <p><strong>Fernet</strong> is a symmetric encryption method which makes sure that the data encrypted cannot be manipulated/read without the key.Fernet uses the Advanced Encryption Standard(AES) algorithm to encode and decode messages. It uses a 32-byte long key, making it highly resistant to brute-force attacks.</p>
 
 <h3>Working:</h3>
-<strong>Message Encryption/Decryption:</strong>
+<h3><strong>Message Encryption/Decryption:</strong></h3>
 <h4>Encryption Steps:</h4>
 <ol> <li> Input your message in the designated text area</li>
      <li> Either use the automatically generated key displayed in the <code>Generated Key</code> entry field or edit it if desired.</li>
@@ -25,9 +25,12 @@
 <img alt="" class="bg hc hd c" width="650" height="350" src="https://i.ibb.co/hYdVbTL/IK.png"></img>
 <br>
 <p><i><u>If the key is correct, the script will decrypt the entered message using the provided key and display the decrypted result in the <code>Result</code> text area.</u></i></p>
-<img alt="" class="bg hc hd c" width="650" height="350" src="https://i.ibb.co/fr9mw6H/IK2.png"></img></ol>
+<img alt="" class="bg hc hd c" width="650" height="350" src="https://i.ibb.co/fr9mw6H/IK2.png"></img>
+</ol>
 
-<strong>Files Encryption/Decryption:</strong>
+# 
+
+<h3><strong>Files Encryption/Decryption:</strong></h3>
 <h4>Encryption Steps:</h4>
 <ol> <li> Click on the <code>Browse</code> button and choose the file you want to encrypt. The file path will be displayed in the <code>Select File</code> entry field.</li>
      <li> Either use the automatically generated key displayed in the <code>Generated Key</code> entry field or edit it if desired.</li>
@@ -44,7 +47,8 @@
 <img alt="" class="bg hc hd c" width="650" height="350" src="https://i.ibb.co/Snxzftv/FE2.png"></img>
 <br>
 <p><i><u>If the key is correct, the script will decrypt the entered message using the provided key and display the decrypted result in the <code>Result</code> text area.</u></i></p>
-<img alt="" class="bg hc hd c" width="650" height="350" src="https://i.ibb.co/QKbC3hs/FE1.png"></img></ol>
+<img alt="" class="bg hc hd c" width="650" height="350" src="https://i.ibb.co/QKbC3hs/FE1.png"></img>
+</ol>
 
 
 
